@@ -1,0 +1,1 @@
+insert into user(username, password, email) values('culyssander', '$2y$10$FOfNdXmvmDQa7XxdtCZwAuKdIc5jdTDrhFWeoLniOIQX6S98erOeS', 'culyssandercentro@gmail.com');
